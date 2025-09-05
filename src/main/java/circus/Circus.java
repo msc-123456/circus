@@ -1,4 +1,4 @@
-import circus.Animal;
+package circus;
 
 public class Circus {
     private static Animal[] animals = {
